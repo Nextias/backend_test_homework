@@ -3,6 +3,6 @@ README.md
 
 # Игнорировать файл side.txt в директории build.
 build/side.txt
-
+test.txt
 # Игнорировать все файлы с расширением .doc
 *.doc
